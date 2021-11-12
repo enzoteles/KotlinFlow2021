@@ -9,6 +9,7 @@ import kotlinx.coroutines.flow.flow
 
 class MainViewModel : ViewModel() {
 
+
     val languagesData: LiveData<String> = getLanguages().asLiveData()
 
     fun getLanguages(): Flow<String> {
