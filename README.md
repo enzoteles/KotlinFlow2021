@@ -13,6 +13,7 @@ Há três entidades envolvidas em streams de dados:
 * Intermediários (opcionais) podem modificar cada valor emitido para o stream ou o próprio stream.
 * Um consumidor consome os valores do stream.
 
+<img width="646" alt="Screen Shot 2021-11-12 at 20 38 58" src="https://user-images.githubusercontent.com/5742609/141595899-8794aca5-44f1-4ee5-936f-2ab0dddc2082.png">
 
 
 
