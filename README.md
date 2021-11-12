@@ -15,5 +15,9 @@ Há três entidades envolvidas em streams de dados:
 
 <img width="646" alt="Screen Shot 2021-11-12 at 20 38 58" src="https://user-images.githubusercontent.com/5742609/141595899-8794aca5-44f1-4ee5-936f-2ab0dddc2082.png">
 
+Exemplo de um código kotlin flow:
 
+<img width="557" alt="Screen Shot 2021-11-12 at 20 51 31" src="https://user-images.githubusercontent.com/5742609/141596494-708f9d37-daa1-4374-a57b-9f35679fb3fe.png">
+
+<img width="587" alt="Screen Shot 2021-11-12 at 20 51 47" src="https://user-images.githubusercontent.com/5742609/141596502-6fe8ee00-cb42-4902-a25a-6305baab1318.png">
 
